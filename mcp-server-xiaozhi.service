@@ -1,0 +1,15 @@
+[Unit]
+Description=MCP Server Xiaozhi
+After=network.target
+
+[Service]
+Type=simple
+User=admin
+WorkingDirectory=/home/admin/mcp-server-xiaozhi/
+ExecStart=/usr/bin/python mcp_pipe.py
+Restart=always
+RestartSec=10
+Environment=
+
+[Install]
+WantedBy=multi-user.target

@@ -9,6 +9,16 @@
       "type": "stdio",
       "command": "python",
       "args": ["phatnguoi.py"]
-    }
+    },
+    "local-stdio-invidious": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["invidious_mcp.py"]
+    },
+  	"local-stdio-news": {
+  	"type": "stdio",
+  	"command": "python",
+  	"args": ["news_mcp.py"]
+  	}
   }
 }
