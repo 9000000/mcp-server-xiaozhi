@@ -47,5 +47,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Forked from the original https://github.com/78/mcp-calculator
 - API Phạt nguội lấy từ https://github.com/anyideaz/phatnguoi-api
-- API Phát nhạc Youtube thông qua máy chủ Invidious lấy gốc từ https://github.com/ryannguyentran/mp3-proxy-musicVN-xiaozhi/tree/main
+- API Phát nhạc Youtube thông qua máy chủ Invidious lấy gốc từ https://github.com/ryannguyentran/mp3-proxy-musicVN-xiaozhi
 
